@@ -1,4 +1,4 @@
-# 🧭 魂のアーキテクチャ設計書_v1.1
+# 🧭 ソウルアーキテクチャ設計書_v1.1
 複数レイヤー構造モデル（Layered Inheritance Model）
 
 ## 0. 導入（Introduction）
@@ -74,7 +74,7 @@ AIが人と関わるとき、その応答は単なる情報処理ではなく、
 
 
 ## 3-1. 構造図（Modular Architecture）
-🧭 魂のアーキテクチャ設計書_v1.1</br>
+🧭 ソウルアーキテクチャ設計書_v1.1</br>
 │</br>
 ├── 🌌 Layer_1_Cognitive_Layer</br>
 │ └─ 🔗 connect_to: Layer_2</br>
